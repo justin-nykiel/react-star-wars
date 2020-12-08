@@ -1,0 +1,11 @@
+.mainCont {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.ship {
+    margin: 5px;
+    display: inline-block;
+    width: 20vw;
+    border: 1px solid black;
+}
